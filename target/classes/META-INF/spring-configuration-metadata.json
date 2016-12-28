@@ -1,0 +1,14 @@
+{
+  "groups": [{
+    "name": "hello",
+    "type": "com.worksap.springboot.HelloServiceProperties",
+    "sourceType": "com.worksap.springboot.HelloServiceProperties"
+  }],
+  "properties": [{
+    "name": "hello.msg",
+    "type": "java.lang.String",
+    "sourceType": "com.worksap.springboot.HelloServiceProperties",
+    "defaultValue": "hello"
+  }],
+  "hints": []
+}
