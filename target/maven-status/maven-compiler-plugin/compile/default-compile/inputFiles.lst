@@ -1,5 +1,16 @@
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/UserService.java
 /home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/controller/HelloController.java
-/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/configuration/HelloServiceAutoConfiguration.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/SecurityService.java
 /home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/HelloServiceProperties.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/dto/User.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/dao/UserDao.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/UserDetailsServiceImpl.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/SecurityServiceImpl.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/dto/Role.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/configuration/WebConfiguration.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/UserServiceImpl.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/validator/UserValidator.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/controller/UserController.java
 /home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/SbApplication.java
+/home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/dao/RoleDao.java
 /home/zzl/Develop/WorkSpace/HUE100/springboot/src/main/java/com/worksap/springboot/service/HelloService.java
